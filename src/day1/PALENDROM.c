@@ -17,6 +17,8 @@ int main()
          printf("\n entered number is palendrome" );
         }
        else
-       printf("entered number is not palendrom");
-      return 0;
+           
+	       printf("entered number is not palendrom");
+     
+	return 0;
  }
