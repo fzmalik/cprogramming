@@ -10,7 +10,7 @@ int main()
 	   temp=ar[0];
 		for(i=0;i<=4;i++)
 		{
-			j=i-1;
+			
 		  if(ar[i]<emp)
 			{
 				temp=ar[i];
