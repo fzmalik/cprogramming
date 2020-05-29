@@ -25,7 +25,7 @@ int main()
 				  Ar[j+1]=temp;
 			 }
 			 printf("\n\n Array After sorting \n");
-			 for(i=1;i<=4;i++)
+			 for(i=0;i<=4;i++)
 			 {
 				 printf("%d \t",Ar[i]);
 			 }
