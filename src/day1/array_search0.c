@@ -14,11 +14,14 @@ int main()
 		 if(Ar[i]==a)
 		 {
 			 count++;
+			 if(count!=0)
+			 {break;}
 		 }
 	 }
 	 if(count!=0)
 	 {
 		 printf("Entered Number is found ");
+		 break;
 	 }
 	 else
 	 {
